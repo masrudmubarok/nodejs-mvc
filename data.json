@@ -1,0 +1,17 @@
+[
+   {
+      "id": 1,
+      "task": "Belajar Quran",
+      "status": true
+   },
+   {
+      "id": 2,
+      "task": "Belajar OOP",
+      "status": false
+   },
+   {
+      "id": 3,
+      "task": "Belajar Node Js",
+      "status": false
+   }
+]
